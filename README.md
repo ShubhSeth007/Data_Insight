@@ -1,10 +1,10 @@
 # 📊 DataInsight: Automated EDA Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badge-streamlit.svg)](PASTE_YOUR_STREAMLIT_LIVE_LINK_HERE)
+[![Streamlit App]([https://datainsight-jzekgvb9oq5nphtxsowfdq.streamlit.app/])
 
 An enterprise-grade, fully automated Exploratory Data Analysis (EDA) web application built in Python. This tool ingests raw tabular datasets and instantly generates interactive, production-ready visualizations alongside deep statistical profiles, bridging the gap between raw data and actionable data storytelling.
 
-🔗 **[Live Demo Link](PASTE_YOUR_STREAMLIT_LIVE_LINK_HERE)**
+🔗 **[Live Demo Link]([https://datainsight-jzekgvb9oq5nphtxsowfdq.streamlit.app/])**
 
 ---
 
@@ -45,7 +45,7 @@ Want to run this project locally on your machine? Follow these quick steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/ShubhSeth007/Data_Insight.git)
    cd YOUR_REPO_NAME
    ```
 
@@ -63,4 +63,4 @@ Want to run this project locally on your machine? Follow these quick steps:
 ---
 
 ## 👤 Author
-* **Your Name** - [Your GitHub Profile](https://github.com/YOUR_USERNAME) | [Your LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* **Your Name** - [Your GitHub Profile](https://github.com/ShubhSeth007)
