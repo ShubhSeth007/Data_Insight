@@ -44,9 +44,9 @@ def generate_missing_data_insights(df):
     return insights
 
 # --- 3. STREAMLIT UI SETUP ---
-st.set_page_config(page_title="AutoInsight EDA Tool", layout="wide", page_icon="📊")
+st.set_page_config(page_title="DataInsight EDA Tool", layout="wide", page_icon="📊")
 
-st.title("📊 AutoInsight: Automated EDA Dashboard")
+st.title("📊 DataInsight: Automated EDA Dashboard")
 st.markdown("Upload any CSV file to generate production-grade visualizations and statistical profiles instantly.")
 
 uploaded_file = st.sidebar.file_uploader("Upload your dataset (CSV)", type=["csv"])
