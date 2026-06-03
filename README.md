@@ -1,4 +1,4 @@
-# 📊 AutoInsight: Automated EDA Dashboard
+# 📊 DataInsight: Automated EDA Dashboard
 
 [![Streamlit App](https://static.streamlit.io/badge-streamlit.svg)](PASTE_YOUR_STREAMLIT_LIVE_LINK_HERE)
 
