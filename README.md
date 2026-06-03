@@ -47,3 +47,20 @@ Want to run this project locally on your machine? Follow these quick steps:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
    cd YOUR_REPO_NAME
+   ```
+
+2. **Install dependencies:**
+   Make sure you have Python installed, then run:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Launch the application:**
+   ```bash
+   streamlit run app.py
+   ```
+
+---
+
+## 👤 Author
+* **Your Name** - [Your GitHub Profile](https://github.com/YOUR_USERNAME) | [Your LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
